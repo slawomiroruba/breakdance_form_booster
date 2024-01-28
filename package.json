@@ -1,0 +1,19 @@
+{
+  "name": "breakdance_form_booster",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slawomiroruba/breakdance_form_booster.git"
+  },
+  "author": "Sławomir Oruba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slawomiroruba/breakdance_form_booster/issues"
+  },
+  "homepage": "https://github.com/slawomiroruba/breakdance_form_booster#readme"
+}
